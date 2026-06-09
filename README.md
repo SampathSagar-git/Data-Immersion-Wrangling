@@ -44,6 +44,4 @@ Output
 
 A cleaned and transformed Titanic dataset ready for further analysis and visualization.
 =======
-# Data-Immersion-Wrangling
-Titanic Dataset Data Cleaning and Wrangling Project
->>>>>>> 1fb303dd2acb98f78c845b5ba6032cf03036b202
+
